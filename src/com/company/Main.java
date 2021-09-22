@@ -3,6 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        //Example 1
+        /*
     Product[] products = new Product [2];
     products [0] = new Product (1, 25.6);
     products [1] = new Product (2, 102.1);
@@ -22,5 +24,9 @@ class Product{
     void print () {
         System.out.println("id : " + id + " price : " + price);
     }
+ */
+
+
+
 
 }
